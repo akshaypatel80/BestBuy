@@ -1,0 +1,22 @@
+.container{
+  width: 100%;
+  padding: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.carousel{
+    width:55%;
+    margin-left: 80px;
+    padding-top: 90px;
+    display: flex;
+    flex-direction: column;
+   
+    /* gap: 60px; */
+}
+.backgroundImage{
+    position: absolute;
+    width: 85%;
+    
+}
