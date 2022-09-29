@@ -36,7 +36,14 @@ const Carousel = () => {
     ),
   };
   return (
-    <div style={{ marginTop: "5rem", width: "100%", margin: "auto" }}>
+    <div
+      style={{
+        marginTop: "1rem",
+        width: "100%",
+        margin: "auto",
+        marginBottom: "10rem",
+      }}
+    >
       <div className={style.backgroundImage}>
         <Image
           src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltb8cbee62777e3c4f/62342c39893506175b30a8b4/computing-20220318-fsl-bg-pc-gaming-homepage-m.jpg?width=5760&quality=80&auto=webp"

@@ -1,0 +1,10 @@
+.Ul li{
+    list-style: none;
+    padding-top: 20px;
+    font-size: 13px;
+    color: #1d252c;
+    cursor: pointer;
+}
+.Ul li:hover{
+    color:#0046BE;
+}

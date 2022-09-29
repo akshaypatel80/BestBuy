@@ -9,6 +9,7 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { FaAngleDown } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const BottomBar = () => {
   return (
@@ -96,7 +97,9 @@ const BottomBar = () => {
               Services
             </MenuButton>
             <MenuList overflow={"auto"} maxH={"500px"}>
-              <MenuItem>Geek Squad Services</MenuItem>
+              <MenuItem>
+                <Link to={"/Squed-Services"}>Geek Squad Services</Link>
+              </MenuItem>
               <MenuItem>In-Home Advisor</MenuItem>
               <MenuItem>Trade-In Program</MenuItem>
               <MenuItem>Electronics Recycling</MenuItem>
