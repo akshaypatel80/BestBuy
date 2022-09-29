@@ -35,7 +35,9 @@ const MidleBar = () => {
           <span>
             <FaUser />
           </span>
-          <span>Account</span>
+          <span>
+            <Link to={"/Signin"}>Account</Link>
+          </span>
           <span>
             <FaShoppingCart />
           </span>
