@@ -26,7 +26,11 @@ const BottomBar = () => {
               Shop
             </MenuButton>
             <MenuList overflow={"auto"} maxH={"500px"}>
-              <MenuItem>Computers, Tablets, & Accessories</MenuItem>
+              <MenuItem>
+                <Link to={"/Computers-Tablets"}>
+                  Computers, Tablets, & Accessories
+                </Link>
+              </MenuItem>
               <MenuItem>Cell Phones and Accessories</MenuItem>
               <MenuItem>Office Supplies & Ink</MenuItem>
               <MenuItem>TV & Home Theatre</MenuItem>

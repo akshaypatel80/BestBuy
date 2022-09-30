@@ -1,0 +1,41 @@
+{
+    "Computers-Tablets":[
+        {
+            "id":1,
+            "ProductName":"Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
+            "ModelNumber":"82BB0038CF",
+            "WebCode":"16242267",
+            "Rating ":4.4,
+            "RatingStar":["Star","Star","Star","Star","HalfStar"],
+            "Reviews":23,
+            "Price":199.99,
+            "save":150,
+            "saleEnds":"October 6, 2022",
+            "Avaliable":true,
+            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_3.jpg"],
+            "Overview":"Access everything you need at your fingertips with the Lenovo IdeaPad Flex 3 Chromebook. Powered by the Intel Celeron N4000 processor with 4GB RAM, this 2-in-1 touchscreen laptop delivers great performance for all your computing tasks. The webcam with physical shutter and 10-hour battery life makes this device a trusty companion from day to night.",
+            "MoreInformation":"1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+            "What'sIncluded":"Computer \n Charger \n User Guide"
+
+        },
+        {
+            "id":2,
+            "ProductName":"Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
+            "ModelNumber":"82BB0038CF",
+            "WebCode":"16242267",
+            "Rating ":4.4,
+            "RatingStar":["Star","Star","Star","Star","HalfStar"],
+            "Reviews":23,
+            "Price":199.99,
+            "save":150,
+            "saleEnds":"October 6, 2022",
+            "Avaliable":true,
+            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_3.jpg"],
+            "Overview":"Access everything you need at your fingertips with the Lenovo IdeaPad Flex 3 Chromebook. Powered by the Intel Celeron N4000 processor with 4GB RAM, this 2-in-1 touchscreen laptop delivers great performance for all your computing tasks. The webcam with physical shutter and 10-hour battery life makes this device a trusty companion from day to night.",
+            "MoreInformation":"1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+            "What'sIncluded":"Computer \n Charger \n User Guide"
+
+        }
+
+    ]
+}

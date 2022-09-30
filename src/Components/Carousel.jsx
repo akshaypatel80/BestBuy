@@ -38,7 +38,7 @@ const Carousel = () => {
   return (
     <div
       style={{
-        marginTop: "1rem",
+        marginTop: "5rem",
         width: "100%",
         margin: "auto",
         marginBottom: "10rem",

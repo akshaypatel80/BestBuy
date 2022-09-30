@@ -1,6 +1,7 @@
 import {
   Button,
   Container,
+  Flex,
   FormControl,
   FormLabel,
   Heading,
@@ -8,6 +9,8 @@ import {
   Input,
   InputGroup,
   InputRightElement,
+  Link,
+  VStack,
 } from "@chakra-ui/react";
 import React, { useState } from "react";
 
@@ -20,20 +23,31 @@ const Signin = () => {
         fontSize={"48px"}
         fontWeight={"800"}
         color={"#0046be"}
-        mb={"5rem"}
+        mb={"2rem"}
+        pl={"30px"}
       >
         Sign In
       </Heading>
-      <HStack w={"100%"}>
+      <VStack
+        spacing={"30px"}
+        // border={"1px solid red"}
+        width={"130%"}
+        p={"30px"}
+      >
         <FormControl>
-          <FormLabel>Email address</FormLabel>
-          <Input type="email" />
-          <FormLabel>Password</FormLabel>
-          <InputGroup size="md">
+          <FormLabel m={"20px 0"}>Email address</FormLabel>
+          <Input
+            type="email"
+            size={"lg"}
+            borderColor={"black"}
+            color={"black"}
+          />
+          <FormLabel m={"20px 0"}>Password</FormLabel>
+          <InputGroup size="lg">
             <Input
               pr="4.5rem"
               type={show ? "text" : "password"}
-              placeholder="Enter password"
+              borderColor={"black"}
             />
             <InputRightElement width="4.5rem">
               <Button h="1.75rem" size="sm" onClick={handleClick}>
@@ -42,7 +56,13 @@ const Signin = () => {
             </InputRightElement>
           </InputGroup>
         </FormControl>
-      </HStack>
+        <Flex gap={"100px"}>
+          <Button size={"lg"} colorScheme="facebook">
+            Sign In
+          </Button>
+          <Link>Forgot Password?</Link>
+        </Flex>
+      </VStack>
     </div>
   );
 };

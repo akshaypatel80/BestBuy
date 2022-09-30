@@ -18,7 +18,7 @@ const AuthContextProvider = ({ children }) => {
     setIsAuth(false);
     setToken(null);
   }
-
+  console.log(firstName, lastName);
   return (
     <AuthContext.Provider
       value={{
