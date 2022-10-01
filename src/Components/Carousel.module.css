@@ -1,5 +1,5 @@
 .container{
-  width: 100%;
+  width: 95%;
   padding: 20px;
   position: relative;
   display: flex;
@@ -9,7 +9,7 @@
 .carousel{
     width:55%;
     margin-left: 80px;
-    padding-top: 90px;
+    padding-top: 20px;
     display: flex;
     flex-direction: column;
    

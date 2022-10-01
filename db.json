@@ -20,6 +20,40 @@
         },
         {
             "id":2,
+            "ProductName":"ASUS ZenBook 14 Laptop - Pine Grey (AMD Ryzen 5 5500U/512GB SSD/8GB RAM/Windows 11)",
+            "ModelNumber":"UM425UA-BH59-CB",
+            "WebCode":"15779903",
+            "Rating ":4.3,
+            "RatingStar":["Star","Star","Star","Star","HalfStar"],
+            "Reviews":7,
+            "Price":699.99,
+            "save":300,
+            "saleEnds":"October 6, 2022",
+            "Avaliable":true,
+            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_3.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_4.jpg"],
+            "Overview":"Improve your productivity with the ASUS 14-inch ZenBook. This lightweight laptop is equipped with a hexa-core AMD Ryzen 5 processor, 8GB of RAM, and a bright, clear display to facilitate work tasks and entertainment use. The backlit keyboard offers a separate number pad and an ErgoLift hinge that makes long typing sessions more comfortable..",
+            "MoreInformation":"2.1GHz hexa-core AMD Ryzen 5 5500U processor and 8GB LPDDR4X RAM enable excellent performance for all kinds of computer tasks \n 512GB PCIe solid-state drive (SSD) allows for quick data transfer and plenty of storage for your files \n 14-inch anti-glare Full HD 4-way NanoEdge bezel display with 1920 x 1080 resolution ensures text is crisp and easy to read and colours are vivid \n  Integrated Wi-Fi 5 (802.11ac) and dual-band Bluetooth 5.0 enable you to go wireless when connecting to networks and compatible devices \n 4S1P, 4-Cell Lithium-Ion battery powers your device for many hours of use \n Sleek, lightweight laptop is easy to transport at only 2.7lbs (1.22kg) \n One USB 3.2 Gen 2 Type-A port, two USB 3.2 Gen 2 Type-C ports, and one HDMI 2.1 port are available to support secondary devices, like monitors and printers \n Built tough to MIL-STD 810G military standards for exceptional reliability and durability \n Backlit bilingual keyboard with number pad enables low-light use, and ErgoLift hinge allows for comfortable typing \n Pre-loaded with the bilingual Windows 10 Home operating system so you can start using your laptop right away ",
+            "What'sIncluded":"Adapter \n User E-Manual \n Warranty Card"
+
+        },{
+            "id":3,
+            "ProductName":"Acer Aspire 3 15.6 Laptop - Silver (AMD Ryzen R3-3250U/512GB/8GB RAM/Windows 11)",
+            "ModelNumber":"A315-23-R8XX",
+            "WebCode":"16250530",
+            "Rating ":4.0,
+            "RatingStar":["Star","Star","Star","Star","EmptyStar"],
+            "Reviews":4,
+            "Price":449.97,
+            "save":"",
+            "saleEnds":"",
+            "Avaliable":true,
+            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_3.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_4.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_5.jpg"],
+            "Overview":"Complete your everyday to-do list seamlessly with the Acer Aspire 3 15.6 laptop. Equipped with an AMD Ryzen R3-3250U processor and 8GB DDR4 RAM, this laptop makes your everyday computing easy and smooth. With 512GB SSD, you don't need to worry about the storage for your documents while the 36Wh lithium-ion battery keeps the device running for hours.",
+            "MoreInformation":"AMD Ryzen R3-3250U processor and 8GB DDR4 RAM make this device powerful enough to smoothly handle your everyday computing tasks \n 512GB solid state drive offers ample space for all your documents, media, software and more \n 15.6-inch FHD screen with 1920 x 1080 resolution gives you a superior viewing experience \n  Ethernet 10/100/1000 port, 802.11ac Wi-Fi (dual-band 2.4GHz and 5GHz), and Bluetooth 4.2 offer provision for reliable wireless connectivity \n 36Wh 2-cell lithium-ion battery with up to 8 hours lifetime makes you worry less about charging \n Two USB 3.2 Gen 1, 1 USB 2.0, a HDMI port with HDCP support, a 3.5 mm headphone/speaker jack, and an optical digital audio output let you connect various peripheral devices \n Webcam lets you to stay connected with your friends and family over video chats \n HDCP compliant design allows you to stream high-definition content from authorized sources \n Preinstalled with Windows 11 operating system that features advanced features and apps for improved security and performance ",
+            "What'sIncluded":"Laptop \n Power Cord \n Adapter"
+
+        },{
+            "id":4,
             "ProductName":"Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
             "ModelNumber":"82BB0038CF",
             "WebCode":"16242267",
@@ -37,5 +71,146 @@
 
         }
 
-    ]
+    ],
+    "Carousel":{
+        "Toppicks":[
+            {
+                "id":1,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235885.jpg",
+                "ProductName":"ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel Core i7",
+                "RatingStar":["Star","Star","Star","Star","HalfStar"],
+                "Reviews":10,
+                "Price":"1,499.99"
+            },{
+                "id":2,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235884.jpg",
+                "ProductName":"ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel i7",
+                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
+                "Reviews":5,
+                "Price":"1,799.99"
+            },{
+                "id":3,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373.jpg",
+                "ProductName":"ASUS VivoBook X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/512GB",
+                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
+                "Reviews":18,
+                "Price":"799.99"
+            },{
+                "id":4,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533.jpg",
+                "ProductName":"ASUS VivoBook 15 X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/1TB",
+                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
+                "Reviews":47,
+                "Price":"899.99"
+            },{
+                "id":5,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283559.jpg",
+                "ProductName":"ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i5-12500H /1TB",
+                "RatingStar":["Star","Star","Star","Star","Star"],
+                "Reviews":5,
+                "Price":"1,099.99"
+            },{
+                "id":6,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16345/16345248.jpg",
+                "ProductName":"ASUS VivoBook X515 15.6 Laptop -Slate Grey (Intel Core i7-1165G7/1TB",
+                "RatingStar":["Star","Star","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":1,
+                "Price":"1,199.99"
+            },{
+                "id":7,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283560.jpg",
+                "ProductName":"ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i7-12700H/1TB",
+                "RatingStar":["Star","Star","Star","HalfStar","EmptyStar"],
+                "Reviews":4,
+                "Price":"1,299.99"
+            }
+        ],
+        "explore":[
+            {
+                "id":1,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16006/16006296.jpg",
+                "ProductName":"Sony BRAVIA 75 4K UHD HDR LED Google TV Smart TV (XR75X90K) - 2022",
+                "RatingStar":["Star","Star","Star","Star","Star"],
+                "Reviews":63,
+                "Price":"2,199.99"
+            }, {
+                "id":2,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374017.jpg",
+                "ProductName":"FIFA 23 (PS5)",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"89.99"
+            },{
+                "id":3,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15630/15630290.jpg",
+                "ProductName":"Samsung BESPOKE 36 29 Cu. Ft. 4-Door Flex French Door Refrigerator",
+                "RatingStar":["Star","Star","Star","Star","Star"],
+                "Reviews":168,
+                "Price":"3,699.99"
+            },{
+                "id":5,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/145/14500/14500110.jpg",
+                "ProductName":"LG 36 22.5 Cu. Ft. French Door Refrigerator w/ Water & Ice Dispenser",
+                "RatingStar":["Star","Star","Star","Star","HalfStar"],
+                "Reviews":529,
+                "Price":"4,299.99"
+            },{
+                "id":6,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374006.jpg",
+                "ProductName":"Breville Barista Express Impress Espresso Machine (BES876BSS1BNA1)",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"1,299.99"
+            },{
+                "id":7,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013570.jpg",
+                "ProductName":"ASUS ROG Strix Scar 15 15.6 Gaming Laptop - Off Black (i9-12900H/1TB",
+                "RatingStar":["Star","Star","Star","Star","HalfStar"],
+                "Reviews":22,
+                "Price":"2,399.99"
+            },{
+                "id":8,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16333/16333264.jpg",
+                "ProductName":"HP Omen 45 L Gaming PC (Intel Core i7-12700KF/1TB SSD/32GB RAM/GeForce",
+                "RatingStar":["Star","Star","Star","Star","HalfStar"],
+                "Reviews":26,
+                "Price":"3,299.99"
+            },{
+                "id":9,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16390/16390438.jpg",
+                "ProductName":"Fitbit Sense 2 Smartwatch with Heart Rate Monitor - Blue Mist",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"399.99"
+            },{
+                "id":10,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528532.jpg",
+                "ProductName":"Therabody Smart Goggles",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"249.99"
+            },{
+                "id":11,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528530.jpg",
+                "ProductName":"Therabody TheraFace Pro Percussive Massage Device - Black",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"549.99"
+            },{
+                "id":12,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528534.jpg",
+                "ProductName":"Therabody TheraGun Pro Handheld Percussive Massage Device (5th",
+                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
+                "Reviews":0,
+                "Price":"799.99"
+            },{
+                "id":13,
+                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15689/15689336.jpg",
+                "ProductName":"PlayStation 5 Console",
+                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
+                "Reviews":87,
+                "Price":"649.99"
+            }
+        ]
+    }
 }
