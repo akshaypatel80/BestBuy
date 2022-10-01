@@ -104,8 +104,12 @@ const BottomBar = () => {
               <MenuItem>
                 <Link to={"/Squed-Services"}>Geek Squad Services</Link>
               </MenuItem>
-              <MenuItem>In-Home Advisor</MenuItem>
-              <MenuItem>Trade-In Program</MenuItem>
+              <MenuItem>
+                <Link to={"/In-HomeAdvisor"}>In-Home Advisor</Link>
+              </MenuItem>
+              <MenuItem>
+                <Link to={"/Trade-InProgram"}>Trade-In Program</Link>{" "}
+              </MenuItem>
               <MenuItem>Electronics Recycling</MenuItem>
               <MenuItem>Best Buy Membership</MenuItem>
               <MenuItem>Best Buy Protection</MenuItem>

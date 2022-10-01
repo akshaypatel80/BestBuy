@@ -7,11 +7,18 @@ import {
   Image,
   Link,
   SimpleGrid,
+  Skeleton,
   Text,
 } from "@chakra-ui/react";
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 const GeekSquadServices = () => {
+  const [isLoading, setIsLoading] = useState(false);
+  useEffect(() => {
+    setTimeout(() => {
+      setIsLoading(true);
+    }, 2500);
+  });
   return (
     <div>
       <Heading
@@ -24,10 +31,12 @@ const GeekSquadServices = () => {
       >
         Geek Squad Services
       </Heading>
-      <Image
-        src="https://drive.google.com/uc?export=view&id=1Kxc9bOqWjGv1b--GsIo_RF3kp54J-cwd"
-        mt={"20px"}
-      />
+      <Skeleton isLoaded={isLoading}>
+        <Image
+          src="https://drive.google.com/uc?export=view&id=1Kxc9bOqWjGv1b--GsIo_RF3kp54J-cwd"
+          mt={"20px"}
+        />
+      </Skeleton>
       <Container maxW={"75%"}>
         <Heading size={"lg"} mt={"50px"}>
           Discover our services by product category

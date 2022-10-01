@@ -1,5 +1,13 @@
-import { Flex, HStack, Image, Stack, Text, VStack } from "@chakra-ui/react";
-import React from "react";
+import {
+  Flex,
+  HStack,
+  Image,
+  Skeleton,
+  Stack,
+  Text,
+  VStack,
+} from "@chakra-ui/react";
+import React, { useEffect, useState } from "react";
 import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
 import { FcCheckmark } from "react-icons/fc";
 import { MdDoDisturb } from "react-icons/md";
@@ -12,48 +20,66 @@ const ShopCard = ({
   Price,
   Avaliable,
 }) => {
+  const [isLoading, setIsLoading] = useState(false);
+  useEffect(() => {
+    setTimeout(() => {
+      setIsLoading(true);
+    }, 2000);
+  });
   return (
     <div>
       <Stack textAlign={"left"} p={"20px"}>
-        <Image src={image} />
-        <Text>
-          <Link>{ProductName}</Link>
-        </Text>
+        <Skeleton isLoaded={isLoading}>
+          <Image src={image} width={"90%"} />
+        </Skeleton>
+        <Skeleton isLoaded={isLoading}>
+          <Text fontSize={"14px"}>
+            <Link>{ProductName}</Link>
+          </Text>
+        </Skeleton>
         <HStack>
-          <Flex
-            alignItems={"center"}
-            gap={"5px"}
-            color={"#FECF0A"}
-            fontSize={"15px"}
-          >
-            {RatingStar.map((star) => (
-              <>
-                {star === "Star" ? (
-                  <FaStar />
-                ) : star === "HalfStar" ? (
-                  <FaStarHalfAlt />
-                ) : (
-                  <FaRegStar />
-                )}
-              </>
-            ))}
-          </Flex>
-          <Text fontSize={"15px"}>({Reviews}Reviews)</Text>
+          <Skeleton isLoaded={isLoading}>
+            <Flex
+              alignItems={"center"}
+              gap={"5px"}
+              color={"#FECF0A"}
+              fontSize={"15px"}
+            >
+              {RatingStar.map((star) => (
+                <>
+                  {star === "Star" ? (
+                    <FaStar />
+                  ) : star === "HalfStar" ? (
+                    <FaStarHalfAlt />
+                  ) : (
+                    <FaRegStar />
+                  )}
+                </>
+              ))}
+            </Flex>
+          </Skeleton>
+          <Skeleton isLoaded={isLoading}>
+            <Text fontSize={"15px"}>({Reviews}Reviews)</Text>
+          </Skeleton>
         </HStack>
-        <Text fontSize={"18px"} fontWeight={"700"}>
-          ${Price}
-        </Text>
-        <Flex alignItems={"center"} gap={"20px"}>
-          {Avaliable ? (
-            <>
-              <FcCheckmark /> <Text>Available to ship</Text>
-            </>
-          ) : (
-            <>
-              <MdDoDisturb /> <Text>Sold out online</Text>
-            </>
-          )}
-        </Flex>
+        <Skeleton isLoaded={isLoading}>
+          <Text fontSize={"18px"} fontWeight={"700"}>
+            ${Price}
+          </Text>
+        </Skeleton>
+        <Skeleton isLoaded={isLoading}>
+          <Flex alignItems={"center"} gap={"20px"}>
+            {Avaliable ? (
+              <>
+                <FcCheckmark /> <Text>Available to ship</Text>
+              </>
+            ) : (
+              <>
+                <MdDoDisturb /> <Text>Sold out online</Text>
+              </>
+            )}
+          </Flex>
+        </Skeleton>
       </Stack>
     </div>
   );

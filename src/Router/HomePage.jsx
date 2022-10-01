@@ -1,5 +1,5 @@
 import { Container, Heading } from "@chakra-ui/react";
-import React from "react";
+import React, { useState } from "react";
 import Carousel from "../Components/Carousel";
 import AppleProduct from "../Components/Home/AppleProduct";
 import ByCategoryHome from "../Components/Home/ByCategoryHome";
@@ -7,6 +7,7 @@ import HottestOffers from "../Components/Home/HottestOffers";
 import TopSection from "../Components/Home/TopSection";
 
 const HomePage = () => {
+  const [carouselone, setCarouselOne] = useState([]);
   return (
     <div>
       <TopSection />
