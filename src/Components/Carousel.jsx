@@ -56,32 +56,27 @@ const Carousel = ({
   return (
     <div
       style={{
-        marginTop: "6rem",
+        marginTop: "4rem",
         width: "100%",
         margin: "auto",
-        marginBottom: "10rem",
+        marginBottom: "4rem",
       }}
     >
       <div className={style.backgroundImage}>
-        {/* <Image
-          src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltb8cbee62777e3c4f/62342c39893506175b30a8b4/computing-20220318-fsl-bg-pc-gaming-homepage-m.jpg?width=5760&quality=80&auto=webp"
-          width={"100%"}
-        /> */}
-
         <Image src={backgroundImage} width={"100%"} />
       </div>
       <div className={style.container}>
         <HStack spacing={"80px"}>
           <Stack
             textAlign={"left"}
-            color={"white"}
+            color={"black"}
             // mr={"20px"}
             w={"100%"}
           >
             <Heading fontSize={"30px"}>{Hading}</Heading>
             <p>{title}</p>
             {button ? (
-              <Button width={"40%"} color={"blue.600"}>
+              <Button width={"40%"} colorScheme={"blue"} color={"white"}>
                 {text}
               </Button>
             ) : null}
@@ -100,7 +95,11 @@ const Carousel = ({
                     borderRadius={"10px"}
                   >
                     <Skeleton isLoaded={isLoading}>
-                      <Image src={item.image} width={"80%"} />
+                      <Image
+                        src={item.image}
+                        width={"80%"}
+                        objectFit={"cover"}
+                      />
                       <Text fontSize={"13px"}>{item.ProductName}</Text>
                       <Flex
                         alignItems={"center"}

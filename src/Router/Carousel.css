@@ -1,0 +1,11 @@
+.slick-thumb li{
+    width: 117px; 
+}
+.slick-dots{
+   position: relative;
+   display: flex;
+   width: 91%;
+   height: 160px;
+   overflow: auto;
+
+}

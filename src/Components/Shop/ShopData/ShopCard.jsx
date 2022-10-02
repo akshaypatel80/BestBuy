@@ -19,6 +19,7 @@ const ShopCard = ({
   Reviews,
   Price,
   Avaliable,
+  id,
 }) => {
   const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
@@ -34,7 +35,7 @@ const ShopCard = ({
         </Skeleton>
         <Skeleton isLoaded={isLoading}>
           <Text fontSize={"14px"}>
-            <Link>{ProductName}</Link>
+            <Link to={`/Computers-Tablets/${id}`}>{ProductName}</Link>
           </Text>
         </Skeleton>
         <HStack>

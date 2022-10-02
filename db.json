@@ -1,216 +1,885 @@
 {
-    "Computers-Tablets":[
-        {
-            "id":1,
-            "ProductName":"Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
-            "ModelNumber":"82BB0038CF",
-            "WebCode":"16242267",
-            "Rating ":4.4,
-            "RatingStar":["Star","Star","Star","Star","HalfStar"],
-            "Reviews":23,
-            "Price":199.99,
-            "save":150,
-            "saleEnds":"October 6, 2022",
-            "Avaliable":true,
-            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_3.jpg"],
-            "Overview":"Access everything you need at your fingertips with the Lenovo IdeaPad Flex 3 Chromebook. Powered by the Intel Celeron N4000 processor with 4GB RAM, this 2-in-1 touchscreen laptop delivers great performance for all your computing tasks. The webcam with physical shutter and 10-hour battery life makes this device a trusty companion from day to night.",
-            "MoreInformation":"1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
-            "What'sIncluded":"Computer \n Charger \n User Guide"
-
-        },
-        {
-            "id":2,
-            "ProductName":"ASUS ZenBook 14 Laptop - Pine Grey (AMD Ryzen 5 5500U/512GB SSD/8GB RAM/Windows 11)",
-            "ModelNumber":"UM425UA-BH59-CB",
-            "WebCode":"15779903",
-            "Rating ":4.3,
-            "RatingStar":["Star","Star","Star","Star","HalfStar"],
-            "Reviews":7,
-            "Price":699.99,
-            "save":300,
-            "saleEnds":"October 6, 2022",
-            "Avaliable":true,
-            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_3.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_4.jpg"],
-            "Overview":"Improve your productivity with the ASUS 14-inch ZenBook. This lightweight laptop is equipped with a hexa-core AMD Ryzen 5 processor, 8GB of RAM, and a bright, clear display to facilitate work tasks and entertainment use. The backlit keyboard offers a separate number pad and an ErgoLift hinge that makes long typing sessions more comfortable..",
-            "MoreInformation":"2.1GHz hexa-core AMD Ryzen 5 5500U processor and 8GB LPDDR4X RAM enable excellent performance for all kinds of computer tasks \n 512GB PCIe solid-state drive (SSD) allows for quick data transfer and plenty of storage for your files \n 14-inch anti-glare Full HD 4-way NanoEdge bezel display with 1920 x 1080 resolution ensures text is crisp and easy to read and colours are vivid \n  Integrated Wi-Fi 5 (802.11ac) and dual-band Bluetooth 5.0 enable you to go wireless when connecting to networks and compatible devices \n 4S1P, 4-Cell Lithium-Ion battery powers your device for many hours of use \n Sleek, lightweight laptop is easy to transport at only 2.7lbs (1.22kg) \n One USB 3.2 Gen 2 Type-A port, two USB 3.2 Gen 2 Type-C ports, and one HDMI 2.1 port are available to support secondary devices, like monitors and printers \n Built tough to MIL-STD 810G military standards for exceptional reliability and durability \n Backlit bilingual keyboard with number pad enables low-light use, and ErgoLift hinge allows for comfortable typing \n Pre-loaded with the bilingual Windows 10 Home operating system so you can start using your laptop right away ",
-            "What'sIncluded":"Adapter \n User E-Manual \n Warranty Card"
-
-        },{
-            "id":3,
-            "ProductName":"Acer Aspire 3 15.6 Laptop - Silver (AMD Ryzen R3-3250U/512GB/8GB RAM/Windows 11)",
-            "ModelNumber":"A315-23-R8XX",
-            "WebCode":"16250530",
-            "Rating ":4.0,
-            "RatingStar":["Star","Star","Star","Star","EmptyStar"],
-            "Reviews":4,
-            "Price":449.97,
-            "save":"",
-            "saleEnds":"",
-            "Avaliable":true,
-            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_3.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_4.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_5.jpg"],
-            "Overview":"Complete your everyday to-do list seamlessly with the Acer Aspire 3 15.6 laptop. Equipped with an AMD Ryzen R3-3250U processor and 8GB DDR4 RAM, this laptop makes your everyday computing easy and smooth. With 512GB SSD, you don't need to worry about the storage for your documents while the 36Wh lithium-ion battery keeps the device running for hours.",
-            "MoreInformation":"AMD Ryzen R3-3250U processor and 8GB DDR4 RAM make this device powerful enough to smoothly handle your everyday computing tasks \n 512GB solid state drive offers ample space for all your documents, media, software and more \n 15.6-inch FHD screen with 1920 x 1080 resolution gives you a superior viewing experience \n  Ethernet 10/100/1000 port, 802.11ac Wi-Fi (dual-band 2.4GHz and 5GHz), and Bluetooth 4.2 offer provision for reliable wireless connectivity \n 36Wh 2-cell lithium-ion battery with up to 8 hours lifetime makes you worry less about charging \n Two USB 3.2 Gen 1, 1 USB 2.0, a HDMI port with HDCP support, a 3.5 mm headphone/speaker jack, and an optical digital audio output let you connect various peripheral devices \n Webcam lets you to stay connected with your friends and family over video chats \n HDCP compliant design allows you to stream high-definition content from authorized sources \n Preinstalled with Windows 11 operating system that features advanced features and apps for improved security and performance ",
-            "What'sIncluded":"Laptop \n Power Cord \n Adapter"
-
-        },{
-            "id":4,
-            "ProductName":"Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
-            "ModelNumber":"82BB0038CF",
-            "WebCode":"16242267",
-            "Rating ":4.4,
-            "RatingStar":["Star","Star","Star","Star","HalfStar"],
-            "Reviews":23,
-            "Price":199.99,
-            "save":150,
-            "saleEnds":"October 6, 2022",
-            "Avaliable":true,
-            "Image":["https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_1.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_2.jpg","https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_3.jpg"],
-            "Overview":"Access everything you need at your fingertips with the Lenovo IdeaPad Flex 3 Chromebook. Powered by the Intel Celeron N4000 processor with 4GB RAM, this 2-in-1 touchscreen laptop delivers great performance for all your computing tasks. The webcam with physical shutter and 10-hour battery life makes this device a trusty companion from day to night.",
-            "MoreInformation":"1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
-            "What'sIncluded":"Computer \n Charger \n User Guide"
-
-        }
-
+  "Computers-Tablets": [
+    {
+      "id": 1,
+      "ProductName": "Lenovo IdeaPad Flex 3 11 Touchscreen 2-in-1 Chromebook - Blue (Intel Celeron N4000/64GB eMMC/4GB RAM/Chrome)",
+      "ModelNumber": "82BB0038CF",
+      "WebCode": "16242267",
+      "Rating": 4.4,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "HalfStar"
+      ],
+      "Reviews": 23,
+      "Price": 199.99,
+      "save": 150,
+      "saleEnds": "October 6, 2022",
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_1.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_2.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242267_3.jpg"
+      ],
+      "Overview": "Access everything you need at your fingertips with the Lenovo IdeaPad Flex 3 Chromebook. Powered by the Intel Celeron N4000 processor with 4GB RAM, this 2-in-1 touchscreen laptop delivers great performance for all your computing tasks. The webcam with physical shutter and 10-hour battery life makes this device a trusty companion from day to night.",
+      "MoreInformation": "1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+      "What'sIncluded": "Computer \n Charger \n User Guide"
+    },
+    {
+      "id": 2,
+      "ProductName": "ASUS ZenBook 14 Laptop - Pine Grey (AMD Ryzen 5 5500U/512GB SSD/8GB RAM/Windows 11)",
+      "ModelNumber": "UM425UA-BH59-CB",
+      "WebCode": "15779903",
+      "Rating": 4.3,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "HalfStar"
+      ],
+      "Reviews": 7,
+      "Price": 699.99,
+      "save": 300,
+      "saleEnds": "October 6, 2022",
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_1.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_2.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779903_3.jpg"
+      ],
+      "Overview": "Improve your productivity with the ASUS 14-inch ZenBook. This lightweight laptop is equipped with a hexa-core AMD Ryzen 5 processor, 8GB of RAM, and a bright, clear display to facilitate work tasks and entertainment use. The backlit keyboard offers a separate number pad and an ErgoLift hinge that makes long typing sessions more comfortable..",
+      "MoreInformation": "2.1GHz hexa-core AMD Ryzen 5 5500U processor and 8GB LPDDR4X RAM enable excellent performance for all kinds of computer tasks \n 512GB PCIe solid-state drive (SSD) allows for quick data transfer and plenty of storage for your files \n 14-inch anti-glare Full HD 4-way NanoEdge bezel display with 1920 x 1080 resolution ensures text is crisp and easy to read and colours are vivid \n  Integrated Wi-Fi 5 (802.11ac) and dual-band Bluetooth 5.0 enable you to go wireless when connecting to networks and compatible devices \n 4S1P, 4-Cell Lithium-Ion battery powers your device for many hours of use \n Sleek, lightweight laptop is easy to transport at only 2.7lbs (1.22kg) \n One USB 3.2 Gen 2 Type-A port, two USB 3.2 Gen 2 Type-C ports, and one HDMI 2.1 port are available to support secondary devices, like monitors and printers \n Built tough to MIL-STD 810G military standards for exceptional reliability and durability \n Backlit bilingual keyboard with number pad enables low-light use, and ErgoLift hinge allows for comfortable typing \n Pre-loaded with the bilingual Windows 10 Home operating system so you can start using your laptop right away ",
+      "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+    },
+    {
+      "id": 3,
+      "ProductName": "Acer Aspire 3 15.6 Laptop - Silver (AMD Ryzen R3-3250U/512GB/8GB RAM/Windows 11)",
+      "ModelNumber": "A315-23-R8XX",
+      "WebCode": "16250530",
+      "Rating": 4,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "EmptyStar"
+      ],
+      "Reviews": 4,
+      "Price": 449.97,
+      "save": "",
+      "saleEnds": "",
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_1.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_2.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16250/16250530_3.jpg"
+      ],
+      "Overview": "Complete your everyday to-do list seamlessly with the Acer Aspire 3 15.6 laptop. Equipped with an AMD Ryzen R3-3250U processor and 8GB DDR4 RAM, this laptop makes your everyday computing easy and smooth. With 512GB SSD, you don't need to worry about the storage for your documents while the 36Wh lithium-ion battery keeps the device running for hours.",
+      "MoreInformation": "AMD Ryzen R3-3250U processor and 8GB DDR4 RAM make this device powerful enough to smoothly handle your everyday computing tasks \n 512GB solid state drive offers ample space for all your documents, media, software and more \n 15.6-inch FHD screen with 1920 x 1080 resolution gives you a superior viewing experience \n  Ethernet 10/100/1000 port, 802.11ac Wi-Fi (dual-band 2.4GHz and 5GHz), and Bluetooth 4.2 offer provision for reliable wireless connectivity \n 36Wh 2-cell lithium-ion battery with up to 8 hours lifetime makes you worry less about charging \n Two USB 3.2 Gen 1, 1 USB 2.0, a HDMI port with HDCP support, a 3.5 mm headphone/speaker jack, and an optical digital audio output let you connect various peripheral devices \n Webcam lets you to stay connected with your friends and family over video chats \n HDCP compliant design allows you to stream high-definition content from authorized sources \n Preinstalled with Windows 11 operating system that features advanced features and apps for improved security and performance ",
+      "What'sIncluded": "Laptop \n Power Cord \n Adapter"
+    },
+    {
+      "id": 4,
+      "ProductName": "Samsung 32 FHD 75Hz 8ms GTG VA LED FreeSync Monitor (LS32B300NWNXGO) - Black",
+      "ModelNumber": "LS32B300NWNXGO",
+      "WebCode": "16013587",
+      "Rating ": 4.0,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "EmptyStar"
+      ],
+      "Reviews": 2,
+      "Price": 329.99,
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013587.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013587_1.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013587_2.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013587_3.jpg"
+      ],
+      "Overview": "Impeccably designed for amazing performance, the Samsung 32 FreeSync monitor boasts a three-sided borderless LED display with 1080p HD resolution to ensure every image and scene is clear, bright, and true-to-life. Its 8ms GTG response time, 75Hz refresh rate, and AMD Radeon FreeSync technology keep your intense games running smooth and lag-free without screen tearing.",
+      "MoreInformation": "1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+      "What'sIncluded": "Power Cord \n HDMI Cable"
+    },
+    {
+      "id": 5,
+      "ProductName": "Lenovo IdeaPad 3 11 Chromebook - Onyx Black (Intel Celeron N4020/64GB eMMC/4GB RAM/Chrome OS)",
+      "ModelNumber": "82BA000UCF",
+      "WebCode": "16242266",
+      "Rating ": 4.3,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "HalfStar"
+      ],
+      "Reviews": 87,
+      "Price": 249.99,
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242266.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242266_1.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242266_2.jpg",
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16242/16242266_3.jpg"
+      ],
+      "Overview": "Count on the Lenovo IdeaPad 3 Chromebook for undeniable performance and high functionality. It features an Intel Celeron N4020 processor and 4GB of LPDDR4 RAM that empowers you to multitask like browsing, media streaming, and more. Its 11-inch display with narrow bezel ensures great clarity to carry out your everyday computing works.",
+      "MoreInformation": "1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+      "What'sIncluded": "Computer \n Charger \n User Guide"
+    },
+    {
+      "id": 6,
+      "ProductName": "EVGA NVIDIA GeForce RTX 3080 XC3 Ultra 10GB GDDR6X Video Card",
+      "ModelNumber": "10G-P5-3885-KH",
+      "WebCode": "15631897",
+      "Rating ": 4.8,
+      "RatingStar": [
+        "Star",
+        "Star",
+        "Star",
+        "Star",
+        "Star"
+      ],
+      "Reviews": 143,
+      "Price": 959.99,
+      "Avaliable": true,
+      "Image": [
+        "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15631/15631897.jpg"
     ],
-    "Carousel":{
-        "Toppicks":[
-            {
-                "id":1,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235885.jpg",
-                "ProductName":"ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel Core i7",
-                "RatingStar":["Star","Star","Star","Star","HalfStar"],
-                "Reviews":10,
-                "Price":"1,499.99"
-            },{
-                "id":2,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235884.jpg",
-                "ProductName":"ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel i7",
-                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
-                "Reviews":5,
-                "Price":"1,799.99"
-            },{
-                "id":3,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373.jpg",
-                "ProductName":"ASUS VivoBook X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/512GB",
-                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
-                "Reviews":18,
-                "Price":"799.99"
-            },{
-                "id":4,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533.jpg",
-                "ProductName":"ASUS VivoBook 15 X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/1TB",
-                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
-                "Reviews":47,
-                "Price":"899.99"
-            },{
-                "id":5,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283559.jpg",
-                "ProductName":"ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i5-12500H /1TB",
-                "RatingStar":["Star","Star","Star","Star","Star"],
-                "Reviews":5,
-                "Price":"1,099.99"
-            },{
-                "id":6,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16345/16345248.jpg",
-                "ProductName":"ASUS VivoBook X515 15.6 Laptop -Slate Grey (Intel Core i7-1165G7/1TB",
-                "RatingStar":["Star","Star","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":1,
-                "Price":"1,199.99"
-            },{
-                "id":7,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283560.jpg",
-                "ProductName":"ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i7-12700H/1TB",
-                "RatingStar":["Star","Star","Star","HalfStar","EmptyStar"],
-                "Reviews":4,
-                "Price":"1,299.99"
-            }
+      "Overview": "Experience your games in mind blowing graphics and realistic images, thanks to the EVGA NVidia GeForce RTX 3080 XC3 Ultra video card. It features up to 10GB of VRAM powered by Ampere architecture, along with enhanced RT cores and Tensor cores, to render images in stunning 8K resolution. Compatible with various APIs, supports multiple monitors, and more.",
+      "MoreInformation": "1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+      "What'sIncluded": "There is no manufacturer content to show for this product. Explore the Details & Specs and Customer Reviews sections to learn more."
+    },
+    {
+        "id": 7,
+        "ProductName": "Lenovo IdeaPad 1i 14 Laptop - Cloud Grey (Intel Celeron N4500/64GB eMMC/4GB RAM/Windows 11 S)",
+        "ModelNumber": "82LV003TCF",
+        "WebCode": "16204908",
+        "Rating ": 4.2,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
         ],
-        "explore":[
-            {
-                "id":1,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16006/16006296.jpg",
-                "ProductName":"Sony BRAVIA 75 4K UHD HDR LED Google TV Smart TV (XR75X90K) - 2022",
-                "RatingStar":["Star","Star","Star","Star","Star"],
-                "Reviews":63,
-                "Price":"2,199.99"
-            }, {
-                "id":2,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374017.jpg",
-                "ProductName":"FIFA 23 (PS5)",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"89.99"
-            },{
-                "id":3,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15630/15630290.jpg",
-                "ProductName":"Samsung BESPOKE 36 29 Cu. Ft. 4-Door Flex French Door Refrigerator",
-                "RatingStar":["Star","Star","Star","Star","Star"],
-                "Reviews":168,
-                "Price":"3,699.99"
-            },{
-                "id":5,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/145/14500/14500110.jpg",
-                "ProductName":"LG 36 22.5 Cu. Ft. French Door Refrigerator w/ Water & Ice Dispenser",
-                "RatingStar":["Star","Star","Star","Star","HalfStar"],
-                "Reviews":529,
-                "Price":"4,299.99"
-            },{
-                "id":6,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374006.jpg",
-                "ProductName":"Breville Barista Express Impress Espresso Machine (BES876BSS1BNA1)",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"1,299.99"
-            },{
-                "id":7,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013570.jpg",
-                "ProductName":"ASUS ROG Strix Scar 15 15.6 Gaming Laptop - Off Black (i9-12900H/1TB",
-                "RatingStar":["Star","Star","Star","Star","HalfStar"],
-                "Reviews":22,
-                "Price":"2,399.99"
-            },{
-                "id":8,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16333/16333264.jpg",
-                "ProductName":"HP Omen 45 L Gaming PC (Intel Core i7-12700KF/1TB SSD/32GB RAM/GeForce",
-                "RatingStar":["Star","Star","Star","Star","HalfStar"],
-                "Reviews":26,
-                "Price":"3,299.99"
-            },{
-                "id":9,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16390/16390438.jpg",
-                "ProductName":"Fitbit Sense 2 Smartwatch with Heart Rate Monitor - Blue Mist",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"399.99"
-            },{
-                "id":10,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528532.jpg",
-                "ProductName":"Therabody Smart Goggles",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"249.99"
-            },{
-                "id":11,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528530.jpg",
-                "ProductName":"Therabody TheraFace Pro Percussive Massage Device - Black",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"549.99"
-            },{
-                "id":12,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528534.jpg",
-                "ProductName":"Therabody TheraGun Pro Handheld Percussive Massage Device (5th",
-                "RatingStar":["EmptyStar","EmptyStar","EmptyStar","EmptyStar","EmptyStar"],
-                "Reviews":0,
-                "Price":"799.99"
-            },{
-                "id":13,
-                "image":"https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15689/15689336.jpg",
-                "ProductName":"PlayStation 5 Console",
-                "RatingStar":["Star","Star","Star","Star","EmptyStar"],
-                "Reviews":87,
-                "Price":"649.99"
-            }
-        ]
-    }
+        "Reviews": 14,
+        "Price": 379.99,
+        "Avaliable": true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16204/16204908.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16204/16204908.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16204/16204908_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16204/16204908_3.jpg"
+        ],
+        "Overview": "Closing the gap between efficient performance and portability, the Lenovo IdeaPad 1i is sure to impress you with its excellent features. Housing an Intel Celeron processor with 4GB of RAM, it can easily deal with your everyday tasks without a hitch. The brilliant 14” HD display and Dolby Audio speakers make this laptop quite apt for entertainment and leisure.",
+        "MoreInformation": "1.1GHz 2-core Intel Celeron N4000 processor and 4GB of LPDDR4 RAM ensure smooth and lag-free performance while you're working on multiple applications simultaneously \n 64 GB eMMC HDD offers faster storing and retrieving speeds for your project files and other media files \n 2-in-1 11.6-inch FHD IPS touchscreen laptop with Intel UHD Graphics 600 graphics card renders bright, clear visuals with lifelike colours in 1336 x 768 native resolution \n  Integrated 802.11ac 2x2 Wi-Fi allows you to access the internet from wireless networks \n Bluetooth 5.0 technology quickly pairs up with your Bluetooth-enabled devices such as smartphones, tablets, wireless headphones, and more \n Built-in 3-cell lithium polymer battery gives you a runtime of up to 10 hours when the device is fully charged \n USB 3.2 port and HDMI 1.4b allows you to connect external storage devices, display units, and other peripherals \n Built-in webcam with physical shutter offers complete privacy during your video chats \n Pre-loaded with Chrome OS (bilingual) that integrates with other Android devices ",
+        "What'sIncluded": "Computer \n Charger \n User Guide \n Microsoft 365 12 Month Personal"
+      },
+      {
+        "id": 8,
+        "ProductName": "ASUS VivoBook X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/512GB SSD/8GB RAM/Windows 11)",
+        "ModelNumber": " X515EA-BB53-CB",
+        "WebCode": "16043373",
+        "Rating ": 4.2,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 18,
+        "Price": 799.99,
+        "Avaliable": true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373_3.jpg"
+        ],
+        "Overview": "Stay on top of your work with the ASUS VivoBook X515 laptop. From day-to-day tasks to intense workloads, its Intel Core i5 CPU and 8GB RAM deliver all the power you need to tackle them as fast as possible. This laptop offers crisp and richly-hued visuals with its 15.6” FHD display featuring slim NanoEdge bezels for added visual real estate.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card "
+      },
+      {
+        "id": 9,
+        "ProductName": "Refurbished (Excellent) - Microsoft Surface Laptop Go 12.4 Multi-Touch - Intel Core i5, 8GB RAM, 128GB SSD, Windows 10 Home in S Mode - Sand Stone - Certified Refurbished",
+        "ModelNumber": "1ZZ-00003",
+        "WebCode": "15821434",
+        "Rating ": 4.6,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 5,
+        "Price": 429.99,
+        "Avaliable": true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/158/15821/15821434.jpeg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/158/15821/15821434_1.jpeg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/158/15821/15821434_2.jpeg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/158/15821/15821434_3.jpeg"
+        ],
+        "Overview": "This is a Refurbished product in Excellent condition, with very light to no signs of wear. Product has been tested for 100% functionality. A 1-year warranty is included. See more information below.",
+        "What'sIncluded": "Microsoft Surface Go Laptop - Sand Stone \n Power Cable \n Power Adapter \n Printed Material"
+      },
+      {
+        "id": 10,
+        "ProductName": "MSI Optix 27 FHD 165Hz 1ms Curved VA LED Gaming Monitor (G27C6) - Black",
+        "ModelNumber": "Optix G27C6",
+        "WebCode": "15372257",
+        "Rating ": 4.5,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 11,
+        "Price": 319.99,
+        "Avaliable":false,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/153/15372/15372257.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/153/15372/15372257_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/153/15372/15372257_3.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/153/15372/15372257_4.jpg"
+        ],
+        "Overview": "Enjoy intense gaming with clear and fluid visuals with the MSI Optix 27 LED gaming monitor. Its 27 curved screen with Full HD 1920 x 1080 resolution gives you a highly immersive viewing experience, while the 1ms response time and 165Hz refresh rate ensure smooth gaming. The 178-degree viewing angle lets you view the screen clearly from various angles.",
+        "What'sIncluded": "Monior \n Stands \n DP Cable \n Power Unit \n Power Cable \n User Manual"
+      }, 
+      {
+        "id": 11,
+        "ProductName": "ASUS ZenBook 14 Laptop - Pine Grey (Intel Core i7-1165G7/512GB SSD/16GB RAM/Windows 11)",
+        "ModelNumber": "UX425EA-BH79-CB",
+        "WebCode": "15779899",
+        "Rating ": 4.1,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 21,
+        "Price": 999.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779899.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779899_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779899_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15779/15779899_3.jpg"
+        ],
+        "Overview": "Enjoy lightning-fast speeds and expert reliability with the ASUS 14-inch ZenBook, equipped with a 2.8Ghz Intel Core processor and 16GB of RAM. This lightweight laptop offers military-grade protection for easy portability. Connect to networks and devices wirelessly through Wi-Fi or Bluetooth, or use the built-in USB, Thunderbolt, and HDMI ports.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+      },
+       {
+        "id": 12,
+        "ProductName": "Samsung 24 FHD 75Hz 5ms GTG IPS LED FreeSync Gaming Monitor (LF24T350FHNXZA) - Dark Blue Grey",
+        "ModelNumber": "LF24T350FHNXZA",
+        "WebCode": "14933347",
+        "Rating ": 4.6,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "Star"
+        ],
+        "Reviews": 3460,
+        "Price": 169.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933347.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933347_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933347_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933347_3.jpg"
+        ],
+        "Overview": "Whether you're working, gaming, or enjoying multimedia entertainment, this 24 Samsung gaming monitor ensures every image and scene is clear, bright, and true-to-life. Boasting Full HD resolution and extra-wide viewing angles, it makes it easy to immerse yourself in the action. Its FreeSync technology minimises tearing for seamless motion.",
+        "What'sIncluded": "Manual \n Power Cable \n HDMI Cable"
+      },
+      {
+        "id": 13,
+        "ProductName": "Apple Pencil (2nd Generation) for iPad - White",
+        "ModelNumber": "MU8F2AM/A",
+        "WebCode": "13233103",
+        "Rating ": 4.8,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "Star"
+        ],
+        "Reviews": 17960,
+        "Price": 169.00,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/132/13233/13233103.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/132/13233/13233103_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/132/13233/13233103_2.jpg"  
+        ],
+        "Overview": "The new Apple Pencil delivers pixel-perfect precision and industry-leading low latency, making it great for drawing, sketching, colouring, taking notes or even marking up emails, and more. And it’s as easy and natural to use as a pencil.",
+        "What'sIncluded": "There is no manufacturer content to show for this product. Explore the Details & Specs and Customer Reviews sections to learn more."
+      },
+      {
+        "id": 14,
+        "ProductName": "ASUS VivoBook 15 X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/1TB SSD/16GB RAM/Windows 11)",
+        "ModelNumber": "X515EA-BS55-CB",
+        "WebCode": "16036533",
+        "Rating ": 3.9,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 47,
+        "Price": 899.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533_3.jpg"
+        ],
+        "Overview": "Enjoy fast performance with this 15.6-inch ASUS VivoBook 15 X515 laptop. It's equipped with an Intel Core i5-1135G7 processor and 16GB of RAM to help you complete work and personal tasks with ease. It also offers a generous 1TB solid-state drive for local storage, a NanoEdge bezel display, and an ergonomic keyboard with fingerprint security.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+      },
+      {
+        "id": 15,
+        "ProductName": "ASUS CX1 14 Chromebook - Silver (Intel Celeron N3350/64GB eMMC/8GB RAM/Chrome OS)",
+        "ModelNumber": "CX1400CNA-BB01-CB",
+        "WebCode": "16163546",
+        "Rating ": 4.0,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 4,
+        "Price": 229.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/161/16163/16163546.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/161/16163/16163546_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/161/16163/16163546_2.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/161/16163/16163546_3.jpg"
+        ],
+        "Overview": "Get your work done wherever you are with the ASUS CX1 Chromebook. Powered by an Intel Celeron CPU with 8GB of RAM, it gives outrageous performance and speed to handle multiple tasks. Sleek and lightweight, its military grade construction comes with MIL-STD-810H rating to withstand tough conditions for long-lasting usage.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+      },
+      {
+        "id": 16,
+        "ProductName": "HP 14 Laptop - Natural Silver (AMD 3020e/64 GB SSD/4 GB RAM/Windows 11)",
+        "ModelNumber": "HP 14-fq0208ca",
+        "WebCode": "16373967",  
+        "Rating ": 4.0,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 6,
+        "Price": 279.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16373/16373967.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16373/16373967_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16373/16373967_2.jpg"     
+        ],
+        "Overview": "Powered by an AMD CPU with 4GB RAM, the HP 14 laptop lets you stay productive and entertained wherever you go. Its 14 FHD display with slim bezels produces sharp and bright images for watching movies, reading articles on the web, browsing social media, and more. Its durable battery can sustain the laptop for up to 9 hours depending on usage.",
+        "What'sIncluded": "HP Laptop 14-fq0208ca \n 45 W Smart AC Power Adapter \n Microsoft 365 12 Month Personal"
+      },
+      {
+        "id": 17,
+        "ProductName": "Apple iPad 10.2 64GB with Wi-Fi (9th Generation) - Space Grey",
+        "ModelNumber": "MK2K3VC/A",
+        "WebCode": "15733042",  
+        "Rating ": 4.4,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 93,
+        "Price": 429.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15733/15733042.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15733/15733042_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15733/15733042_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15733/15733042_4.jpg"     
+        ],
+        "Overview": "The Apple iPad combines a beautiful 10.2-inch Retina display and tremendous capability with unmatched versatility and ease of use. And with the powerful A13 Bionic chip, an Ultra Wide front camera with Center Stage, support for Apple Pencil, and the amazing new things you can do with iPadOS 15, there’s even more to love about this iPad.",
+        "What'sIncluded": "iPad \n Lightning to USB-C Cable \n 20W USB-C Power Adapter"
+      },
+      {
+        "id": 18,
+        "ProductName": "Asus 11.6 HD Rugged Education Netbook Laptop - 1366 x 768 - Intel Celeron N4500 Dual-core, 4GB RAM, 64GB eMMC, WiFi 6, Windows 10 Pro - Star Gray (BR1100C BR1100CKA-CE1-CA)",
+        "ModelNumber": "BR1100CKA",
+        "WebCode": "15688899",  
+        "Rating ": 0.0,
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": 169.00,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15688/15688899.jpeg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15688/15688899_1.jpeg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15688/15688899_2.jpeg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15688/15688899_4.jpeg"     
+        ],
+        "Overview": "ASUS BR1100C is designed with one thing in mind: to keep on going however tough the environment gets. Built to military-grade standards, it's packed with clever protective features, including an all-around rubber bumper, spill-resistant keyboard and ultratough I/O ports. BR1100C has AI-powered noise-canceling technology for high-quality remote learning and conferencing. There's battery life to handle more than a full day's learning. This product is brand new!!!",
+        "What'sIncluded": "ASUS BR1100CKA Laptop \n Power Cable \n Power Adapter \n Printed Material"
+      },
+      {
+        "id": 19,
+        "ProductName": "Acer Aspire 5 15.6 Laptop - Silver (Intel Core i5-1135G7/512GB SSD/8GB RAM/Windows 11)",
+        "ModelNumber": "A515-56-5952",
+        "WebCode": "15795309",  
+        "Rating ": 4.1,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 11,
+        "Price": 649.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15795/15795309.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15795/15795309_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15795/15795309_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15795/15795309_3.jpg"     
+        ],
+        "Overview": "For everyday computing and more, opt for the powerful Acer Aspire 5 laptop. With Intel Core i5-1135G7 processor, 512GB solid state drive, and 8GB RAM, it combines speed and performance to fuel even the most intensive tasks. This laptop showcases a 15.6 screen that provides impressive colors and details in all your visuals.",
+        "What'sIncluded": "Laptop \n AC Adapter"
+      },
+      {
+        "id": 20,
+        "ProductName": "ASUS ROG Strix G15 15.6 Gaming Laptop - Grey (Ryzen 7 6800H/1TB SSD/16GB RAM/GeForce RTX 3050/Win 11)",
+        "ModelNumber": "G513RC-BS71-CB",
+        "WebCode": "16014741",  
+        "Rating ": 4.0,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 3,
+        "Price": 1299.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16014/16014741.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16014/16014741_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16014/16014741_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16014/16014741_3.jpg"     
+        ],
+        "Overview": "Experience a whole new level of gaming performance with the ASUS ROG Strix G15 15.6 gaming laptop. Built with the latest 6th Gen AMD Ryzen 7 6800H processor and NVIDIA GeForce RTX 3050 4GB GDDR6 graphics, the laptop enables immersive gaming with brilliant quality visuals. The 16GB DDR5 RAM and 1TB M.2 NVMe PCIe 4.0 SSD offer great data storage, more stability, and improved load times across the apps.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+      },
+      {
+        "id": 21,
+        "ProductName": "HP 15.6 Laptop - Natural Silver (Intel Core i5-1135G7/512GB SSD/8GB RAM/Windows 10)",
+        "ModelNumber": "15-dy2048ca",
+        "WebCode": "15701045",  
+        "Rating ": 3.5,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar",
+          "EmptyStar"
+        ],
+        "Reviews": 70,
+        "Price": 699.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15701/15701045.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15701/15701045_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15701/15701045_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15701/15701045_3.jpg"     
+        ],
+        "Overview": "Whether you're working, playing, or just taking care of everyday tasks, this 15.6 HP laptop is the perfect solution. It's equipped with an Intel Core i5 quad-core processor and 8GB of RAM for impressive performance. It features a 512GB solid state drive so you have plenty of room for storage and conveniently quick load times",
+        "What'sIncluded": "HP Laptop 15-dy2048ca \n 45 W Smart AC Power Adapter"
+      },
+      {
+        "id": 22,
+        "ProductName": "Canon PIXMA TS3420 Wireless All-In-One Inkjet Printer - Black",
+        "ModelNumber": "TS3420",
+        "WebCode": "15799774",  
+        "Rating ": 4.0,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 553,
+        "Price": 69.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15799/15799774.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15799/15799774_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15799/15799774_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/157/15799/15799774_3.jpg"     
+        ],
+        "Overview": "If you’re searching for a complete solution for your home or small business needs, this Canon PIXMA TS3420 wireless all-in-one inkjet printer is a great choice. It prints, scans, and copies from your laptop, computer, or mobile device for maximum versatility. It delivers high resolutions so you can count on every document and image to have that crisp, professional look.",
+        "What'sIncluded": "HP Laptop 15-dy2048ca \n 45 W Smart AC Power Adapter"
+      },
+      {
+        "id": 23,
+        "ProductName": "ASUS ROG Strix G15 15.6 Gaming Laptop (AMD Ryzen 7 4800H/512GB SSD/16GB RAM/GeForce RTX 3050/Win 11)",
+        "ModelNumber": "G513IC-BS71-CB",
+        "WebCode": "15961157",  
+        "Rating ": 4.3,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 21,
+        "Price": 1199.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15961/15961157.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15961/15961157_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15961/15961157_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/159/15961/15961157_3.jpg"     
+        ],
+        "Overview": "Fight your way through fierce battles with excellent stability using the ASUS ROG Strix G15 15.6 gaming laptop. Engineered with the AMD Ryzen 7 4800H processor and NVIDIA GeForce RTX 3050 graphics card, this PC delivers peak performance across all your favourite games and apps. The 16GB DDR4 takes multi-tasking to new levels and the 512GB SSD eliminates the need for an external storage device.",
+        "What'sIncluded": "Adapter \n User E-Manual \n Warranty Card"
+      },
+      {
+        "id": 24,
+        "ProductName": "Samsung 22 FHD 75Hz 5ms GTG IPS LED FreeSync Gaming Monitor (LF22T350FHNXZA) - Dark Blue Grey",
+        "ModelNumber": "LF22T350FHNXZA",
+        "WebCode": "14933346",  
+        "Rating ": 4.6,
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 3409,
+        "Price": 169.99,
+        "Avaliable":true,
+        "Image": [
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933346.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933346_1.jpg",
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933346_2.jpg",     
+          "https://multimedia.bbycastatic.ca/multimedia/products/500x500/149/14933/14933346_4.jpg"     
+        ],
+        "Overview": "Whether you're working, gaming, or enjoying multimedia entertainment, this 22 Samsung gaming monitor ensures every image and scene is clear, bright, and true-to-life. Boasting Full HD resolution and extra-wide viewing angles, it makes it easy to immerse yourself in the action. Its FreeSync technology minimises tearing for seamless motion..",
+        "What'sIncluded": "Manual \n Power Cable"
+      }
+  ],
+  "Carousel": {
+    "Toppicks": [
+      {
+        "id": 1,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235885.jpg",
+        "ProductName": "ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel Core i7",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 10,
+        "Price": "1,499.99"
+      },
+      {
+        "id": 2,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16235/16235884.jpg",
+        "ProductName": "ASUS ZenBook Pro OLED 2.8k 15.6 Touchscreen 2-in-1 Laptop (Intel i7",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 5,
+        "Price": "1,799.99"
+      },
+      {
+        "id": 3,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16043/16043373.jpg",
+        "ProductName": "ASUS VivoBook X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/512GB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 18,
+        "Price": "799.99"
+      },
+      {
+        "id": 4,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16036/16036533.jpg",
+        "ProductName": "ASUS VivoBook 15 X515 15.6 Laptop - Slate Grey (Intel Core i5-1135G7/1TB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 47,
+        "Price": "899.99"
+      },
+      {
+        "id": 5,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283559.jpg",
+        "ProductName": "ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i5-12500H /1TB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "Star"
+        ],
+        "Reviews": 5,
+        "Price": "1,099.99"
+      },
+      {
+        "id": 6,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16345/16345248.jpg",
+        "ProductName": "ASUS VivoBook X515 15.6 Laptop -Slate Grey (Intel Core i7-1165G7/1TB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 1,
+        "Price": "1,199.99"
+      },
+      {
+        "id": 7,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/162/16283/16283560.jpg",
+        "ProductName": "ASUS VivoBook S 15.6 OLED Laptop - Indie Black (Intel Evo i7-12700H/1TB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar",
+          "EmptyStar"
+        ],
+        "Reviews": 4,
+        "Price": "1,299.99"
+      }
+    ],
+    "explore": [
+      {
+        "id": 1,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16006/16006296.jpg",
+        "ProductName": "Sony BRAVIA 75 4K UHD HDR LED Google TV Smart TV (XR75X90K) - 2022",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "Star"
+        ],
+        "Reviews": 63,
+        "Price": "2,199.99"
+      },
+      {
+        "id": 2,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374017.jpg",
+        "ProductName": "FIFA 23 (PS5)",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "89.99"
+      },
+      {
+        "id": 3,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15630/15630290.jpg",
+        "ProductName": "Samsung BESPOKE 36 29 Cu. Ft. 4-Door Flex French Door Refrigerator",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "Star"
+        ],
+        "Reviews": 168,
+        "Price": "3,699.99"
+      },
+      {
+        "id": 5,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/145/14500/14500110.jpg",
+        "ProductName": "LG 36 22.5 Cu. Ft. French Door Refrigerator w/ Water & Ice Dispenser",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 529,
+        "Price": "4,299.99"
+      },
+      {
+        "id": 6,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16374/16374006.jpg",
+        "ProductName": "Breville Barista Express Impress Espresso Machine (BES876BSS1BNA1)",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "1,299.99"
+      },
+      {
+        "id": 7,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/160/16013/16013570.jpg",
+        "ProductName": "ASUS ROG Strix Scar 15 15.6 Gaming Laptop - Off Black (i9-12900H/1TB",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 22,
+        "Price": "2,399.99"
+      },
+      {
+        "id": 8,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16333/16333264.jpg",
+        "ProductName": "HP Omen 45 L Gaming PC (Intel Core i7-12700KF/1TB SSD/32GB RAM/GeForce",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "HalfStar"
+        ],
+        "Reviews": 26,
+        "Price": "3,299.99"
+      },
+      {
+        "id": 9,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/163/16390/16390438.jpg",
+        "ProductName": "Fitbit Sense 2 Smartwatch with Heart Rate Monitor - Blue Mist",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "399.99"
+      },
+      {
+        "id": 10,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528532.jpg",
+        "ProductName": "Therabody Smart Goggles",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "249.99"
+      },
+      {
+        "id": 11,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528530.jpg",
+        "ProductName": "Therabody TheraFace Pro Percussive Massage Device - Black",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "549.99"
+      },
+      {
+        "id": 12,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/165/16528/16528534.jpg",
+        "ProductName": "Therabody TheraGun Pro Handheld Percussive Massage Device (5th",
+        "RatingStar": [
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar",
+          "EmptyStar"
+        ],
+        "Reviews": 0,
+        "Price": "799.99"
+      },
+      {
+        "id": 13,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/156/15689/15689336.jpg",
+        "ProductName": "PlayStation 5 Console",
+        "RatingStar": [
+          "Star",
+          "Star",
+          "Star",
+          "Star",
+          "EmptyStar"
+        ],
+        "Reviews": 87,
+        "Price": "649.99"
+      }
+    ]
+  },
+  "cart": []
 }

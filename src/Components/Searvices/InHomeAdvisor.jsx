@@ -47,6 +47,7 @@ const InHomeAdvisor = () => {
         <Image
           src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltfc2ca1ce958b66d1/611c6e76f30c8713cf6e6759/ipp-evergreen-iha-m-en.png"
           m={"5rem 0"}
+          objectFit={"cover"}
         />
         <Text fontSize={"24px"} fontWeight={"700"}>
           How we can help
@@ -56,6 +57,7 @@ const InHomeAdvisor = () => {
             <Image
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt0e69bb1da70a3cc4/6115ec50df0bce149854c5cb/ipp-offer-iha-smarthome-m.jpg"
               height={"176px"}
+              objectFit={"cover"}
             />
             <Text fontSize={"16px"} fontWeight={"700"}>
               Home is where the smart is.
@@ -69,6 +71,7 @@ const InHomeAdvisor = () => {
             <Image
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltd7bd0fb1291022f1/6115ec5025695f14a34d6df1/ipp-offer-iha-hometheater-m.jpg"
               height={"176px"}
+              objectFit={"cover"}
             />
             <Text fontSize={"16px"} fontWeight={"700"}>
               Your ticket to smarter home entertainment.

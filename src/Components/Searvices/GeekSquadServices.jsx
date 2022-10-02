@@ -47,7 +47,10 @@ const GeekSquadServices = () => {
         </Text>
         <Flex gap={"25px"} mt={"5rem"} textAlign={"left"}>
           <Box>
-            <Image src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt19dfc9da2e9305c5/6171d67e5422ab67be73db78/ipp-evergreen-offer-appliances-m.jpg" />
+            <Image
+              src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt19dfc9da2e9305c5/6171d67e5422ab67be73db78/ipp-evergreen-offer-appliances-m.jpg"
+              objectFit={"cover"}
+            />
             <Text fontWeight={"bold"} mt={"20px"}>
               Major appliances services.
             </Text>
@@ -94,6 +97,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltec4906f6691f1aa7/6037fe931f3c9a3b23d6db61/global-evergreen-gs-support-m.png"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Chat online.
@@ -106,6 +110,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt71e1a6ece9326d01/6036f4f2f54af27503f2d840/global-evergreen-gs-call-m.png"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Give us a call.
@@ -118,6 +123,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt70eebb47701bc62f/6037fe44259b2810197dc442/global-evergreen-gs-store-m.png"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Visit a store near you.
@@ -130,6 +136,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt73f085cf5f9a1ff1/6037fbd42eee966ee2e3cb60/ipp-evergreen-offer-gsp-chat-m.jpg"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Chat with Remote Technical Services.
@@ -146,6 +153,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt5a8951f007f0737d/5f063f7e25b6aa6efeb89145/global-evergreen-gs-self-serve-m.png"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Geek Squad Self-Service Portal.
@@ -161,6 +169,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt71db96a459d943b7/5f063fae5dfaac76f7e51e01/global-evergreen-gs-track-m.png"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Track your repair.
@@ -181,6 +190,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt081d29fef1dfc2c3/627d8ddcf628f26854f9063f/ipp-bby-membership-offer-xsm.jpg"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Best Buy Membership.
@@ -197,6 +207,7 @@ const GeekSquadServices = () => {
               src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt59466aa14d98a9df/627d8ddc8c90c334d0d42b40/ipp-bby-protection-offer-xsm.jpg"
               height={"176px"}
               width={"100%"}
+              objectFit={"cover"}
             />
             <Text fontWeight={"bold"} mt={"20px"}>
               Best Buy Protection.

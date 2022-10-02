@@ -26,14 +26,13 @@ const ComputerScategory = () => {
           justifyContent={"center"}
         >
           <Box>
-            
-              <Image
-                src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltad02379eb78e9028/5e28a49463d1b6503160ee40/computing-evergreen-category-icon-laptops.jpg"
-                width={"55%"}
-                m={"auto"}
-                mb={"40px"}
-              />
-            
+            <Image
+              src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltad02379eb78e9028/5e28a49463d1b6503160ee40/computing-evergreen-category-icon-laptops.jpg"
+              width={"55%"}
+              m={"auto"}
+              mb={"40px"}
+            />
+
             <Link fontSize={"15px"} color={"#0046be"}>
               Laptops and MacBook
             </Link>

@@ -12,11 +12,11 @@ import {
 
 import ShopCard from "./ShopCard";
 
-const ShopGrid = ({ data }) => {
+const ShopGrid = ({ data, setSort }) => {
   return (
     <div>
       <HStack bg={"#F4F6F9"} p={"30px 20px"} justifyContent={"space-between"}>
-        <Text>1255555</Text>
+        <Text>24</Text>
         <Box width={"60%"}>
           <FormControl display="flex" alignItems="center" gap={"10px"}>
             <FormLabel htmlFor="email-alerts" mb="0">
@@ -30,11 +30,15 @@ const ShopGrid = ({ data }) => {
             <FormLabel htmlFor="email-alerts" mb="0">
               Sort
             </FormLabel>
-            <Select width={"40%"} borderColor={"black"}>
-              <option value="Best Match">Best Match</option>
-              <option value="Price Low-High">Price Low-High</option>
-              <option value="Price High-Low">Price High-Low</option>
-              <option value="Highest Rated">Highest Rated</option>
+            <Select
+              width={"40%"}
+              borderColor={"black"}
+              onChange={(e) => setSort(e.target.value)}
+            >
+              <option value="">Best Match</option>
+              <option value="asc">Price Low-High</option>
+              <option value="desc">Price High-Low</option>
+              <option value="asc">Highest Rated</option>
             </Select>
           </FormControl>
         </Box>
@@ -54,6 +58,7 @@ const ShopGrid = ({ data }) => {
                 Reviews={item.Reviews}
                 Price={item.Price}
                 Avaliable={item.Avaliable}
+                id={item.id}
               />
             </Box>
           ))}
