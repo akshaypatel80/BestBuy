@@ -105,7 +105,9 @@ const MidleBar = () => {
           <span>
             <FaShoppingCart />
           </span>
-          <span>Cart</span>
+          <span>
+            <Link to={"/cart"}>Cart</Link>
+          </span>
         </HStack>
       </HStack>
     </div>

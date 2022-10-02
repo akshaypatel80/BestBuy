@@ -7,11 +7,8 @@ import {
   Box,
   Checkbox,
   Link,
-  ListItem,
   Stack,
   Text,
-  UnorderedList,
-  VStack,
 } from "@chakra-ui/react";
 import React from "react";
 

@@ -1,5 +1,6 @@
 import {
   Box,
+  Button,
   Container,
   Flex,
   Heading,
@@ -19,17 +20,20 @@ const ComputersAndTabletsPage = () => {
   const [data, setData] = useState([]);
   const [carousel, setCarousel] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
-
+  const [visible, setVisible] = useState(8);
+  const [sort, setSort] = useState("");
   useEffect(() => {
     getData();
     CarouselData();
     setTimeout(() => {
       setIsLoading(true);
     }, 2500);
-  }, []);
+  }, [visible, sort]);
   const getData = async () => {
     try {
-      let res = await baseUrl.get("/Computers-Tablets");
+      let res = await baseUrl.get(
+        `/Computers-Tablets?&_limit=${visible}&_sort=Price,Rating&_order=${sort}`
+      );
       setData(res.data);
     } catch (error) {
       console.log(error);
@@ -43,8 +47,9 @@ const ComputersAndTabletsPage = () => {
       console.log(error);
     }
   };
+
   console.log(data);
-  console.log(carousel);
+  console.log(sort);
   return (
     <div style={{ marginTop: "50px" }}>
       <Heading fontWeight={400} textAlign={"left"} pl={"50px"} mb={"1rem"}>
@@ -69,8 +74,20 @@ const ComputersAndTabletsPage = () => {
           <Box width={"70%"}>
             <ComputersTabletsLeft />
           </Box>
-          <ShopGrid data={data} />
+          <ShopGrid data={data} setSort={setSort} />
         </HStack>
+        <Button
+          onClick={() => setVisible(visible + 4)}
+          colorScheme={"blue"}
+          width={"20%"}
+          mt={"1rem"}
+        >
+          Show
+        </Button>
+        <Image
+          src="https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt0ca797fe4791c852/61d8c3637c5435387a0c0115/heb-20220107-bby-valueprops-en-m.jpg"
+          m={"3rem 0"}
+        />
       </Container>
     </div>
   );
